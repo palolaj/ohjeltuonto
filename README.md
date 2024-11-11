@@ -1,3 +1,3 @@
 # ohjeltuonto
 
-![GHA workflow badge](https://github.com/palolaj/ohjeltuonto/workflows/CI/badge.svg)
+[Ohjelmistotuotanto](https://ohjelmistotuotanto-hy.github.io/)-kurssin laskareissa käytettävä Python-koodi.
